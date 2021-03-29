@@ -1,5 +1,7 @@
 package class18;
 
+import java.sql.SQLOutput;
+
 public class AccessModifierDemo {
 
 private String bankAccountPassword;
@@ -22,6 +24,9 @@ void printInfo() {
 System.out.println(name);	
 System.out.println(bankAccountPassword);
 System.out.println(SSNNumber);
+	System.out.println();;
+
+
 
 toothBursh();
 }

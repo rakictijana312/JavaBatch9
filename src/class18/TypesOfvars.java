@@ -15,7 +15,6 @@ public class TypesOfvars {
 		
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		TypesOfvars obj1= new TypesOfvars();
 		obj1.name="Ram";

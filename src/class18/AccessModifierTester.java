@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class AccessModifierTester {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		AccessModifierDemo obj1= new AccessModifierDemo();
 		//System.out.println(obj1.bankAccountPassword);
