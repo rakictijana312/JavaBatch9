@@ -1,0 +1,12 @@
+Class 24
+
+Overriding
+is when we have same methods in parent and child class.
+
+ROULS:
+1)There should be a paretn child relationship between the classes.
+2) the return type, name and parametars of the methods they should be same.
+3) We cant overdie private methods/Constructros because they dont participate in inheratance
+4) We can not decrese visibility of method being overwritten but we can increse
+5) When is comes to static methods we say that we are declaring method instead of overriding.
+6)
