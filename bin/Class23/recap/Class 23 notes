@@ -5,11 +5,11 @@ number of parameters or different type of parameters or with different sequence 
 void hello(){
 }
 void hello(String name){
-//class25.overloading by changing the number of parameters
+//overloading by changing the number of parameters
 }
 
 void hello(char[] name){
- //class25.overloading by changing the datatype of parameters
+ //overloading by changing the datatype of parameters
 }
 
 void hello(char[] name,String address){
@@ -17,10 +17,10 @@ void hello(char[] name,String address){
 }
 
 void hello(String address,char[] name){
-//class25.overloading by changing the sequence of parameters
+//overloading by changing the sequence of parameters
 }
 int hello(String address,char[] name){
-//class25.overloading by changing the sequence of parameters
+//overloading by changing the sequence of parameters
 return 10;
 }
 
@@ -47,11 +47,11 @@ System.out.print(number)
 }
 }
 
-Access modifiers do not effect the method class25.overloading in the same class
+Access modifiers do not effect the method overloading in the same class
 interview questions
 1) Can we overload main method
-yes we can if we follow the class25.overloading rules
+yes we can if we follow the overloading rules
 Can we overload the static methods
-yes we can if we follow the class25.overloading rules
+yes we can if we follow the overloading rules
 
 
