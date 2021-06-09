@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class Demo3 {
     public static void main(String[] args) throws IOException {
-        String path="C:\\Users\\Asghar Nazir\\Desktop\\Memory\\userData.xlsx";
+        String path=System.getProperty("user.dir")+"/Files/userData.xlsx";
         FileInputStream fileInputStream=new FileInputStream(path);
         XSSFWorkbook xssfWorkbook=new XSSFWorkbook(fileInputStream);
         Sheet sheet=xssfWorkbook.getSheet("Sheet1");
